@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/ca-debtwatch",
   "title": "Ca Debtwatch",
   "description": "ca-debtwatch — California municipal bond issuance (CDIAC / DebtWatch)",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/ca-debtwatch",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-ca-debtwatch",

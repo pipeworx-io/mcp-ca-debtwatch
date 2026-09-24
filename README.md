@@ -6,7 +6,7 @@ Advisory Commission (CDIAC) since 1984, at issue level: principal, sale date, de
 ratings, interest cost, issuance fees and the underwriter, municipal advisor and bond counsel on
 the deal.
 
-Part of [Pipeworx](https://pipeworx.io) — an MCP gateway connecting AI agents to 1663+ live data sources.
+Part of [Pipeworx](https://pipeworx.io) — an MCP gateway connecting AI agents to 1679+ live data sources.
 
 This is **primary-market issuance**, not the secondary trade tape. It carries no MSRB/EMMA content
 and no CUSIP dependency — CDIAC publishes it as California public data.
@@ -115,7 +115,7 @@ directly, instead of just this one's:
 }
 ```
 
-Both URLs reach the same gateway and the same 1663+ data sources. The
+Both URLs reach the same gateway and the same 1679+ data sources. The
 only difference is which pack's tools are listed **directly**; `ask_pipeworx`
 reaches all of them from either one.
 
