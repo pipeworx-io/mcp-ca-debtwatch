@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-ca-debtwatch",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "ca-debtwatch — California municipal bond issuance (CDIAC / DebtWatch)",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-d91d322efa739525760413228cc37104d3d10037d90cfbb5a2df167442e29fb2",
-    "sourceCommit": "5d8d3a58a457b8464c117515d81b8b6ecb53fdfb"
+    "sourceHash": "v1-0613817212011d981eb41f4722b6ab827439523050019f68b1ac76b6d3e7b774",
+    "sourceCommit": "70a4e816a9195016cd4af92dca2019485d4c3865"
   }
 }
